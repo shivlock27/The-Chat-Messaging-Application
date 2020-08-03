@@ -1,0 +1,26 @@
+//**
+>If there are two systems, create wifi hotspot with one, and connect the other one to it.
+
+>To check IP Address, open command prompt and use the command "ipconfig". Use the IPv4 address
+**//
+
+
+The app can be run in two ways:
+
+1) Netbeans
+	Open netbeans.
+	Select "open projects" from the file tab of menu bar
+	Browse to the parent folder of "TheChatApp" folder (where it must have been extracted)
+	Select the project
+	Click on "Run" button
+
+2) Command Prompt
+	Open the src folder of TheChatApp after unzipping
+	Open command prompt in the SAME FOLDER (src)
+	compile all the .java files by using the command "javac TheChatApp.java"
+	Run the app by using the command "java TheChatApp"
+
+Make sure to wait till the block is mined before sending messages.
+
+To end the app, click on the close button.
+	
